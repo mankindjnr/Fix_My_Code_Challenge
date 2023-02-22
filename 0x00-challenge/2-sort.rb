@@ -29,4 +29,4 @@ ARGV.each do |arg|
 end
 
 
-puts result.sort!
+puts result.sort
